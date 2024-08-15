@@ -1,4 +1,4 @@
-package StringProgramsJava;
+package StringPrograms;
 
 public class CastStringToIntJava {
     public static void main(String[] args) {

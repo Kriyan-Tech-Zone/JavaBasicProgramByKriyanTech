@@ -1,4 +1,4 @@
-package StringProgramsJava;
+package StringPrograms;
 
 class ConvertCharToString {
   public static void main(String[] args) {
